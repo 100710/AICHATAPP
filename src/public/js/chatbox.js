@@ -17,7 +17,7 @@ var dropDownFlag = 0;
 //var url1 ='http://localhost:6002/';
 //var url1 ='https://mhpsemail.mybluemix.net/';
 //var url1 ='http://nodechatapp03.azurewebsites.net/';
-var url1 ='https://aipjmchatapp.azurewebsites.net/';
+var url1 ='http://aipmdemoapp.azurewebsites.net/';
 
 gettoken(function(post){   ///get the token
 	console.log('token is' , post);
